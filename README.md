@@ -1,2 +1,2 @@
 # dataquest_projects
-Data Science projects from the DataQuest online course
+Data Science projects from online DataQuest online course
