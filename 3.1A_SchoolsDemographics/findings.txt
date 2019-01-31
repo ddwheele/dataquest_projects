@@ -1,0 +1,7 @@
+Comparing Juvenile Justice Facilites to Magnet Schools
+
+There are 8 juvenile justice facilities and 52 magnet schools in the dataset. Juvey has 427 males and 71 females, or about 6:1 boys to girls. The magnet schools have almost the same number of boys and girls, 21500 and 20499. Juvey averages 62 kids per facility. Magnet schools average 807 kids per school.
+
+Analyzing Race in the Schools and in the US
+
+According to Wikipedia, 73.3% of the US population is white. According to our data, only 49.8% of school enrollment is white, but 26.1% is Hispanic.  This suggests that Wikipedia's numbers are grouping Hispanics in with whites. Black percentage is roughly equal (12.6% Wiki, 14.1% school), as is Asian (~5%), Hawaiian or Pacific Islander (0.2% Wiki, 0.36% school), two races (3.1% Wiki, 3.0% school), and American Indian (0.8% Wiki, 1.4% 
